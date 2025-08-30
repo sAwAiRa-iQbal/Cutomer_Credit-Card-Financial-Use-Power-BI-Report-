@@ -4,8 +4,11 @@ This repository contains an interactive **Customer Credit Card Report Dashboard*
 The dashboard provides **deep insights into customer demographics, spending patterns, revenue contribution, and risk analysis** based on credit card usage.  
 
 ![Dashboard Preview](Costumer%20CC.JPG)
-![Dashboard Preview](Costumer%20pdadmin.JPG)
-![Dashboard Preview](Costumer%20postgressql-DB.JPG)
+### 1️⃣ pgAdmin Startup  
+![pgAdmin](pdadmin.JPG)  
+
+### 2️⃣ PostgreSQL Database with Tables  
+![PostgreSQL Database](postgresssql-DB.JPG) 
 
 ---
 
